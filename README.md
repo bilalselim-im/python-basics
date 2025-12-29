@@ -1,13 +1,22 @@
-# Python Basics
+# Endüstri Mühendisliği Öğrenme Yolculuğum
 
 Merhaba 👋  
 Ben endüstri mühendisliği 1. sınıf öğrencisiyim.
 
-Bu repository, Python öğrenme sürecimde yaptığım
-temel çalışmaları içerir.
+Bu repository, üniversite sürecimde
+kendimi yazılım ve veri alanında geliştirmek için
+yaptığım çalışmaları belgelemek amacıyla oluşturuldu.
 
-## İçerik
-- Python temelleri
-- İlk deneme kodları
-Bu dönem Excel ve temel analiz üzerine çalışıyorum.
-2. dönemde Python’a geçeceğim.
+## Şu an ne öğreniyorum?
+- Excel (ileri seviye)
+- Temel algoritma mantığı
+
+## Planım
+- 1. Dönem: Excel + algoritma
+- 2. Dönem: Python
+- 3. Dönem: SQL ve Power BI
+
+## Hedefim
+- Stajlarda aktif rol alabilen
+- Veriyle çalışabilen
+- Süreç iyileştirme yapabilen bir endüstri mühendisi olmak
