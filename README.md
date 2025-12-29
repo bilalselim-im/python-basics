@@ -9,3 +9,5 @@ temel çalışmaları içerir.
 ## İçerik
 - Python temelleri
 - İlk deneme kodları
+Bu dönem Excel ve temel analiz üzerine çalışıyorum.
+2. dönemde Python’a geçeceğim.
